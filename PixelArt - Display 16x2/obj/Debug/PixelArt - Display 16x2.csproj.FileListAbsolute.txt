@@ -1,0 +1,9 @@
+C:\Users\filip\source\repos\PixelArt - Display 16x2\PixelArt - Display 16x2\bin\Debug\PixelArt - Display 16x2.exe.config
+C:\Users\filip\source\repos\PixelArt - Display 16x2\PixelArt - Display 16x2\bin\Debug\PixelArt - Display 16x2.exe
+C:\Users\filip\source\repos\PixelArt - Display 16x2\PixelArt - Display 16x2\bin\Debug\PixelArt - Display 16x2.pdb
+C:\Users\filip\source\repos\PixelArt - Display 16x2\PixelArt - Display 16x2\obj\Debug\PixelArt - Display 16x2.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\PixelArt - Display 16x2\PixelArt - Display 16x2\obj\Debug\PixelArt___Display_16x2.Properties.Resources.resources
+C:\Users\filip\source\repos\PixelArt - Display 16x2\PixelArt - Display 16x2\obj\Debug\PixelArt - Display 16x2.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\PixelArt - Display 16x2\PixelArt - Display 16x2\obj\Debug\PixelArt - Display 16x2.exe
+C:\Users\filip\source\repos\PixelArt - Display 16x2\PixelArt - Display 16x2\obj\Debug\PixelArt - Display 16x2.pdb
+C:\Users\filip\source\repos\PixelArt - Display 16x2\PixelArt - Display 16x2\obj\Debug\PixelArt___Display_16x2.Main.resources
